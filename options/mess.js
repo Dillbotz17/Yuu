@@ -6,7 +6,7 @@ Follow Me On All Sosial Media
 
 Link Sosial Media Me
 ❑ Youtube : https://youtube.com/ZeroYT7
-❑ Instagram : https://instagram.com/Zero_YT7
+❑ Instagram : https://instagram.com/Dill.hfz
 ❑ Github : https://github.com/Zero-YT7
 
 Donate Me For Support
@@ -35,7 +35,7 @@ const fs = require('fs')
 
 global.mess = {
 wait: 'Mohon Tunggu Sebentar !',
-succes: 'Done... Please A Subscribe My Youtube Zero YT7',
+succes: 'Done... Please A Follow Instagram @Dill.hfz',
 admin: 'Fitur Ini Hanya Bisa Di Gunakan Oleh Admin Group !',
 botAdmin: 'Jadikan Bot Admin Terlebih Dahulu !',
 owner: 'fitur Hanya Bisa Di Gunakan Oleh Owner Bot !',
